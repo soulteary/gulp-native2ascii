@@ -33,7 +33,7 @@
     "test": "node test/test.js"
   },
   "dependencies": {
-    "gulp-util": "^2.2.14",
+    "gulp-util": "^3.0.1",
     "through2": "^0.4.1"
   },
   "devDependencies": {
